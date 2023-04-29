@@ -4,10 +4,13 @@ cat "Домашние животные.txt" "Вьючные животные.txt
 cat "Друзья человека.txt" \
 mkdir Питомник \
 mv "Друзья человека.txt" /home/ubuntulinux/animals/Питомник \
-![Изображение][C:\Users\New\Desktop\VS_Code\final_attestation_2\1.png] \
+![](/final_attestation_02/1.png) \
 wget https://dev.mysql.com/get/mysql-apt-config_0.8.24-1_all.deb \
 sudo dpkg - i mysql-apt-config_0.8.24-1_all.deb sudo apt-get update \
 sudo apt-get install mysql-server \
+![](/final_attestation_02/2.png) \
+![](/final_attestation_02/3.png) \
 sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/ docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb \
 sudo dpkg -i docker-ce-cli_20.10.133-0ubuntu-jammy_amd64.deb \
 sudo dpkg -r docker-ce-cli
+![](/final_attestation_02/4.png) \
